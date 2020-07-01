@@ -5,7 +5,7 @@ This page is used to inform visitors regarding policies concerning the collectio
 The only peronally identifiable information Vigialnt may collect is your email address.
 
 #### Third Party Services
-The app does most notably use third party services such as Firebase Crashlytics and AdMob which may collect information. To understand what information these services may collect, please consult the following policies: [AdMob](https://support.google.com/admob/answer/6128543?hl=en) and [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
+The app does most notably use a third party services for serving ads w/ Google AdMob. AdMob may collect personal information to tailor ads to your experience. Such collected inforamtion is not privy to us. To understand more of their service, please consult the following policy: [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 
 #### Local Storage
 Vigilant may cache items in your local device's storage to optimize performance, but will not collect any unatuhtorized items.
